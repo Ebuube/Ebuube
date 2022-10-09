@@ -1,5 +1,5 @@
 ```
-ONWUTA EBUBE GIDEON
+ONWUTA EBUBE GIDEON - Upcoming Software Engineer and DNA specialist
 ```
 # Hi I'm Ebube Gideon Onwuta. 👋
 
