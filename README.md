@@ -3,7 +3,7 @@ ONWUTA EBUBE GIDEON
 ```
 # Hi I'm Ebube Gideon Onwuta. 👋
 
-### I am a Software Engineering student at ALX. And I am used to doing hard things.
+### I am a Software Engineering student at ALX. `And I am used to doing hard things...`
 
 - #### 🔭 I'm working to polish my coding proficiency and as well, my social life.
 - #### 👯 I love collaborating on programming projects.
