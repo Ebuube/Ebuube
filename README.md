@@ -1,7 +1,7 @@
 ```
 EBUBE GIDEON ONWUTA - Upcoming Software Engineer and DNA specialist
 ```
-# Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ebube Gideon Onwuta. 👋
+# Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ebube Gideon Onwuta.
 
 ### I am a Software Engineering student at ALX. `And I am used to doing hard things...`
 
