@@ -15,12 +15,4 @@ EBUBE GIDEON ONWUTA - Upcoming Software Engineer and DNA specialist
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebuube&layout=compact)](https://github.com/Ebuube/github-readme-stats)
 
-## QUESTION AND ANSWER WEBSITE 
-* [Stackoverflow](https://Stackoverflow.com/)
-* [Quora](https://quora.com/)
-* [Reddit](https://reddit.com/)
-* [Code project](https://codeproject.com/)
-* [GitHub](https://github.com/)
-* [Programmers heaven](https://programmersheaven.com/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebuube&show_icons=true&theme=radical)
