@@ -12,7 +12,7 @@ EBUBE GIDEON ONWUTA - Upcoming Software Engineer and DNA specialist
 
 # Contact 
 * [Twitter](https://twitter.com/EbubeStar)
-* [LinkedIn](https://linkedin/in/ebubeonwuta)
+* [LinkedIn](https://linkedin.com/in/ebubeonwuta)
 * [Email](mailto:onwutaebubegideon1555@gmail.com)
 
 # Support:
