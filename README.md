@@ -8,7 +8,7 @@ EBUBE GIDEON ONWUTA - Upcoming Software Engineer and DNA specialist
 
 - #### 🔭 I'm working to polish my coding proficiency and as well, my social life.
 - #### 👯 I love collaborating on programming projects.
-- #### 🧠  Currently, I am learning C programming and Shell scripting, as well as Python.
+- #### 🧠  Currently, I am learning C programming and Shell scripting, as well as Python, JavaScript and MySQL.
 
 # Contact 
 * [Twitter](https://twitter.com/EbubeStar)
