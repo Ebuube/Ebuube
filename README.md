@@ -18,7 +18,7 @@ I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a st
 
 ---
 
-### 💡 Featured Projects
+### Featured Projects
 
 🚀 **[FollowUpX](https://followupxcore.staging.miestudio.live/api/v1/public/about)** — A WhatsApp automation platform for sales professionals
 
@@ -41,10 +41,10 @@ I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a st
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/ebubeonwuta)
-- 🐦 [Twitter](https://twitter.com/EbubeStar)
-- 👨‍💼 [Upwork](https://www.upwork.com/freelancers/~015ab6218922464c39)
-- 🌍 [Portfolio (coming soon)](https://github.com/Ebuube)
+- [LinkedIn](https://linkedin.com/in/ebubeonwuta)
+- [Twitter](https://twitter.com/EbubeStar)
+- [Upwork](https://www.upwork.com/freelancers/~015ab6218922464c39)
+- [Portfolio (coming soon)](https://github.com/Ebuube)
 
 ---
 
