@@ -20,7 +20,7 @@ I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a st
 
 ### Featured Projects
 
-🚀 **[FollowUpX](https://followupxcore.staging.miestudio.live/api/v1/public/about)** — A WhatsApp automation platform for sales professionals
+🚀 **[FollowUpX](https://followupxcore.miestudio.live/api/v1/public/about)** — A WhatsApp automation platform for sales professionals
 
 - Flask API + PostgreSQL + Celery + Redis + Twilio + SendGrid
 - Automated messaging workflows on AWS EC2 with Nginx + Gunicorn
