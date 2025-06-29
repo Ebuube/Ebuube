@@ -31,7 +31,7 @@ I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a st
 - Deployed on Heroku with automatic PostgreSQL backups
 - [GitHub Repo](https://github.com/Ebuube/Nervenex)
 
-🖥️ **Custom Unix Shell & Bytecode Interpreter** — C projects built from scratch
+🖥️ **Custom Unix Shell & Bytecode Interpreter** - C projects built from scratch
 
 - Efficient memory handling and modular CLI utilities
 - [Unix Shell Repo](https://github.com/Ebuube/simple_shell)
