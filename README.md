@@ -48,12 +48,4 @@ I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a st
 
 ---
 
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/onwutaebube">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Support this talent&emoji=✨&slug=onwutaebube&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-</a>
-
----
-
 > *"I build backends that move business forward, and I’m passionate about using tech to drive impact - especially in health and data science."*
