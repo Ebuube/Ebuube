@@ -1,10 +1,10 @@
-# Ebube Gideon Onwuta - Backend Software Engineer & Bioinformatics Enthusiast
+# Ebube Gideon Onwuta - Backend Software Engineer
 
 Hi there!  
 
 Welcome to my GitHub.
 
-I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a strong foundation in developing scalable APIs, automating business processes, and deploying robust services to production. I specialize in Python, Flask, Django, PostgreSQL, and AWS-based infrastructure, with growing expertise in Bioinformatics, where I aim to bridge the gap between technology and healthcare.
+I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a strong foundation in developing scalable APIs, automating business processes, and deploying robust services to production. I specialize in Python, Flask, Django, PostgreSQL, and AWS-based infrastructure.
 
 ---
 
@@ -14,7 +14,6 @@ I am **Ebube Gideon Onwuta**, a seasoned **Backend Software Engineer** with a st
 - Architect and deploy scalable APIs on cloud infrastructure (AWS EC2, Heroku, Render)
 - Design automation workflows (e.g., WhatsApp/email messaging bots using Flask, Celery, Redis)
 - Contribute to open-source tools and internal projects that impact lives
-- Explore DNA sequencing, health data pipelines, and bioinformatics tools
 
 ---
 
